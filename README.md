@@ -1,0 +1,2 @@
+#lever
+python main.py
